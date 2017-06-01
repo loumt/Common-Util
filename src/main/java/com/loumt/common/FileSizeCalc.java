@@ -10,13 +10,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * USED TO:
- * Log File:
- *
- * @author loumt(loumt@sanlogic.com)
- * @project Common-Util
- * @package com.loumt.common
- * @date 2017/6/1/001
+ * 文件大小计算
  */
 public class FileSizeCalc {
 
